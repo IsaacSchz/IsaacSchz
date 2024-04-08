@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacSchz
 - 👀 I’m interested in software development for Apple Platforms.
-- 🌱 I’m currently learning iPadOS development using UIKit.
+- 🌱 I’m currently learning production SwiftUI.
 <!--- - 📫 How to reach me: https://isaacsanchezg.com --->
 
 <!---
