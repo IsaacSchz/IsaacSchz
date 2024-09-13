@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacSchz
 - 👀 I’m interested in software development for Apple Platforms.
-- 🌱 I’m currently learning production SwiftUI.
-<!--- - 📫 How to reach me: https://isaacsanchezg.com --->
+- 🌱 I’m currently working on several projects using SwiftUI.
+- 📫 How to reach me: https://isaacsanchezg.com
 
 <!---
 IsaacSchz/IsaacSchz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
